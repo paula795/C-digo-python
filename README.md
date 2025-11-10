@@ -14,5 +14,5 @@ Este programa convierte un número decimal de 2 cifras a binario de 8 bits.
 3. Espera que se configure el entorno.
 4. En la terminal escribe:
    ```bash
-   python3 decimal_a_binario.py
+    python3 Codigoarqui.py
 5. El código esta listo
